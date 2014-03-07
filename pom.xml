@@ -21,5 +21,13 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <dependency>
+            <groupId>edu.washington.cs.types.checker</groupId>
+            <artifactId>checker-maven-plugin</artifactId>
+            <version>1.7.2</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
